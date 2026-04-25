@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Image Tag Lab</title>
+</head>
+<body>
+<h1>My HTML Image Gallery</h1>
+<h2>Task 1: Local Image</h2>
+
+<img src = "turtleduck.jpeg" alt = "turtle duck" >
+
+<h2>Task 2: Image from a Web URL</h2>
+<img src =  "https://emoorearts.com/cdn/shop/products/Miles_Morales_1200x1200.png?v=1551906711" alt text =  "spooder man"  >
+
+<h2>Task 3: Resizing an Image</h2>
+<img src =  "https://emoorearts.com/cdn/shop/products/Miles_Morales_1200x1200.png?v=1551906711" alt text =  "spooder man" style ="width:250px;height=100px;">
+<h2>Task 4: The Importance of Alt Text</h2>
+<img src = "brokenlink.jpeg" alt = "photo of a flying car">
+</body>
+</html>
